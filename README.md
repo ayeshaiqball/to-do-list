@@ -19,3 +19,12 @@ A simple command-line To-Do List application built with Python.
 
 ```bash
 python application.py
+
+## Learning Purpose
+
+This project was created to practice Python fundamentals, including:
+- Lists
+- Loops
+- Conditional statements
+- User input
+- Functions
